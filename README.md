@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 Reach me on Instagram @_ayush3179
-- 😄 Pronouns: Matplayz
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I thought Binary Digits were Codes
 
 <!---
